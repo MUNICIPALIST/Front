@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # schedule-app
+need npm -> 18 (or don't start)
+
 
 ## Project setup
 ```
